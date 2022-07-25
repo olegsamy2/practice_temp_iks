@@ -1,0 +1,13 @@
+4. Установка VSCode на ваш ПК
+
+набираем в браузере https://code.visualstudio.com/
+щелкаем по ссылке и стрелочке Download for Windows x64
+и следуем командам установке
+устанавливаем все на диск С
+
+когда установили и загрузили программу обязательно представиться программе
+git init
+git status
+git commit -m "Создали новый файл"		
+git config --global user.name OlegSam		
+git config --global user.email olegsa@mail.ru	
